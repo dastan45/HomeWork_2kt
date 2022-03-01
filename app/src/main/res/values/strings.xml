@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork_2kt</string>
+    <string name="UrlImage">UrlImage</string>
+    <string name="et1">Вставьте ссылку на картинку:</string>
+    <string name="submit">Submit</string>
+    <string name="RandomLink">Random Link</string>
+</resources>
